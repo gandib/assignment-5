@@ -1,0 +1,65 @@
+.text-bold {
+    font-weight: bold;
+}
+
+.decorate {
+    width: 100px;
+    text-align: end;
+}
+
+img {
+    width: 570px;
+    height: 670px;
+}
+
+.btn {
+    width: 187px;
+    height: 38px;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+/* error handling */
+
+#negative-number-handling {
+    display: none;
+    background-color: yellow;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 15px;
+}
+
+#string-handling {
+    display: none;
+    background-color: yellow;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 15px;
+}
+
+#more-expense {
+    display: none;
+    background-color: yellow;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 15px;
+}
+
+#more-saving {
+    display: none;
+    background-color: yellow;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 15px;
+}
+
+#error-saving {
+    display: none;
+    background-color: yellow;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 15px;
+}
