@@ -72,7 +72,7 @@ document.getElementById('save-btn').addEventListener('click', function () {
         errorSaving.style.display = 'block';
     }
 
-    //set remaining balance
+    //set Remaining Balance
     let remainingBalance = document.getElementById('remaining-balance');
     if (balanceAmount >= totalSaveAmount) {
         const totalRemainingAmount = balanceAmount - totalSaveAmount;
